@@ -6,7 +6,7 @@
 
 ## Yayın Adı
 
-**Araç Sahipleri İçin Olağan Dışı Durumlar Rehberi**
+**ARAÇ SAHİPLERİ EL KİTABI** — Kaza • Hasar • Acil Durumlar • Sigorta Süreçleri
 
 Alt başlık: **Kaza, Hasar ve Acil Durumlarda Doğru Adımlar**
 
