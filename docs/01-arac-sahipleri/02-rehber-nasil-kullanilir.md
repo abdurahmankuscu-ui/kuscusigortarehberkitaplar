@@ -20,11 +20,21 @@ Her bölümde sıralama şu mantıkla kurulmuştur:
 
 ## Bilgi kutularını dikkate alın
 
-- **Dikkat:** Hak kaybına veya güvenlik riskine neden olabilecek kritik uyarılar.
-- **Bilmeniz Gereken:** Süreci anlamanızı kolaylaştıran temel bilgiler.
-- **En Sık Yapılan Hata:** Uygulamada sık karşılaşılan yanlış davranışlar.
-- **Abdurrahman KUŞCU’nun Notu:** Mesleki tecrübeye dayalı pratik değerlendirmeler.
-- **Kontrol Listesi:** Olay yerinden ayrılmadan önce tamamlanması gereken işlemler.
+- ⚠️ **Dikkat:** Hak kaybına veya güvenlik riskine neden olabilecek kritik uyarılar.
+- 📌 **Bilmeniz Gereken:** Süreci anlamanızı kolaylaştıran temel bilgiler.
+- 🤔 **Neden?:** Davranış kurallarının arkasındaki mantık.
+- 💡 **Kuşcu Sigorta Uzman Görüşü:** Mesleki tecrübeye dayalı pratik değerlendirmeler.
+- 📚 **Mevzuat Kutusu:** Konunun dayandığı temel hukuki çerçeve.
+- 📋 **Kontrol Listesi:** Olay yerinden ayrılmadan önce tamamlanması gereken işlemler.
+- 🟦 **Gerçek Hayattan:** Gerçek hasar dosyalarından, kimlik bilgisi içermeyen eğitici örnekler.
+
+## Her bölümün yapısı
+
+Olay bölümlerinin tamamı aynı düzeni izler: **Senaryo → Bu Bölümde
+Öğrenecekleriniz → Ayrıntılı Anlatım → Adım Adım Yapılması Gerekenler →
+Yapılmaması Gerekenler → Neden? → Uzman Görüşü → Kontrol Listesi →
+Uygulamada En Çok Karşılaşılan Sorular → Bölüm Özeti.** Bu sayede acil bir
+anda rehberi açan okuyucu, aradığı bilgiyi her bölümde aynı yerde bulur.
 
 ## Rehberin sınırı
 

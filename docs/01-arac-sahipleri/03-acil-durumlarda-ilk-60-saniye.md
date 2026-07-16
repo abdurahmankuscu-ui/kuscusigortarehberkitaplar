@@ -33,4 +33,5 @@ Can güvenliği sağlandıktan sonra araçların konumu, yol işaretleri, hasarl
 - [ ] Sigorta şirketi veya sigorta danışmanı bilgilendirildi mi?
 - [ ] Araç şirkete aitse şirket ya da filo yetkilisine bilgi verildi mi?
 
-> **Abdurrahman KUŞCU’nun Notu:** Olay anında en sık yapılan hata, hasarı düşünürken güvenliği ikinci plana atmaktır. Önce insan, sonra belge, ardından araç ve sigorta süreci gelir.
+> ### 💡 Kuşcu Sigorta Uzman Görüşü
+> Olay anında en sık yapılan hata, hasarı düşünürken güvenliği ikinci plana atmaktır. Önce insan, sonra belge, ardından araç ve sigorta süreci gelir.

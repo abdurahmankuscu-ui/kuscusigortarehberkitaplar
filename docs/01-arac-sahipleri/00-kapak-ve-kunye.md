@@ -5,10 +5,11 @@
 **KUŞCU SİGORTA BİLGİ MERKEZİ**  
 **Yayın No: 001**
 
-# ARAÇ SAHİPLERİ İÇİN
-# OLAĞAN DIŞI DURUMLAR REHBERİ
+# ARAÇ SAHİPLERİ EL KİTABI
 
-## Kaza, Hasar ve Acil Durumlarda Doğru Adımlar
+## Kaza • Hasar • Acil Durumlar • Sigorta Süreçleri
+
+*Bilgi, doğru zamanda kullanıldığında en güçlü güvencedir.*
 
 **Hazırlayan**  
 **Abdurrahman KUŞCU**  
